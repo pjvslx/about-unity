@@ -1,0 +1,8 @@
+staic  :0-20
+move   :24-40
+attack :44-52
+hurt   :57-72
+die    :112-148
+win    :73-111
+
+ÎäÆ÷¹Ç÷À£ºBone_weapon00
